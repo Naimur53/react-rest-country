@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.countries{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  color: white; 
+}
+body{
+  background-color: black;
+}
